@@ -1,0 +1,5 @@
+Requirements 
+Streamlit: For building the web app interface. 
+Pandas: For handling data and creating DataFrames. 
+Matplotlib: For generating visualizations. 
+Seaborn: For creating statistical plots.
